@@ -10,7 +10,7 @@ Os scripts possuem características autorais e, seu uso para quaisquer meios sem
 
 Nome: Busca nome (Encontra nome completo); Consultar nome (Encontra CPF e data de nascimento);
 
-CPF: Nome completo; Data de nascimento; Nome da Mae; Endereço; Complemento; Bairro; Cidade; CEP; Gera e valida CPF;
+CPF: Francisca lucila Rodrigues de Lima ;04/071985; Nome da Mae; Endereço; Complemento; Bairro; Cidade; CEP; Gera e valida CPF 01017234310;
 
 CEP: ENDEREÇO; COMPLEMENTO; BAIRRO; CIDADE; ESTADO; IBGE; GIA; DDD; SIAFI;
 
